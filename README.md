@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arciuswolf&show_icons=true&locale=en" alt="arciuswolf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arciuswolf&" alt="arciuswolf" /></p>
-
-<a href="https://app.daily.dev/cyruswolf"><img src="https://api.daily.dev/devcards/v2/fk2zWO5Qck86IaVE3Ku6o.png?type=wide&r=npc" width="652" alt="CyrusWolf's Dev Card"/></a>
