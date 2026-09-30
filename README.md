@@ -1,13 +1,20 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A5B,35:F6A96B,65:E8739E,100:7B68EE&height=240&section=header&text=Cyrus&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Unity%20Game%20Developer&descAlignY=58&descSize=24" width="100%" alt="Cyrus header" />
+<!-- Slim gradient wave (no text: capsule-render cannot change fonts) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A5B,35:F6A96B,65:E8739E,100:7B68EE&height=120&section=header" width="100%" alt="" />
 
+<!-- Name in a custom Google Font. Swap font=Bungee for any font from fonts.google.com (spaces become +) -->
 <a href="https://github.com/ArciusWolf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8739E&center=true&vCenter=true&width=720&height=50&lines=Game+Developer+from+Vietnam;Building+gameplay+systems+and+simulation+mechanics;Crafting+Unity+tools+with+C%23;Currently+building+Furever;Polishing+until+it+feels+good+to+play" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=56&letterSpacing=6px&duration=1800&repeat=false&color=E8739E&center=true&vCenter=true&width=560&height=90&lines=CYRUS" alt="Cyrus" />
 </a>
 
-<br><br>
+<!-- Rotating roles in a second font -->
+<a href="https://github.com/ArciusWolf">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=7B68EE&center=true&vCenter=true&width=720&height=40&lines=Unity+Game+Developer+from+Vietnam;Building+gameplay+systems+and+simulation+mechanics;Crafting+Unity+tools+with+C%23;Currently+building+Furever;Polishing+until+it+feels+good+to+play" alt="Roles" />
+</a>
+
+<br>
 
 <!-- TODO: replace the placeholder links below with your real ones -->
 <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" /></a>
@@ -177,4 +184,4 @@
   <img src="https://komarev.com/ghpvc/?username=ArciusWolf&label=Profile+views&color=E8739E&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A5B,35:F6A96B,65:E8739E,100:7B68EE&height=140&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A5B,35:F6A96B,65:E8739E,100:7B68EE&height=100&section=footer" width="100%" alt="Footer" />
