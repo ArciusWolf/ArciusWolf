@@ -17,16 +17,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006cff,50:643bff,100:de00ff&height=140&section=header" width="100%" alt="" />
 
-<!-- Name flanked by the two cutest stickers.
+<!-- Name flanked by the two cutest stickers. The title is cyrus-title.svg: upload it to the repo root next to the sticker PNGs.
      Same width (150) on both sides keeps the row symmetric; align="absmiddle" centres each sticker on the name's midline.
      Inline images instead of a table, so GitHub draws no card border around the hero. -->
 <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8140_20241015121319.png" width="150" align="absmiddle" alt="Cyrus winking with a peace sign" />&nbsp;&nbsp;
-<a href="https://github.com/ArciusWolf">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bungee&size=64&letterSpacing=6px&duration=1800&repeat=false&color=E8739E&center=true&vCenter=true&width=380&height=110&lines=CYRUS">
-    <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=64&letterSpacing=6px&duration=1800&repeat=false&color=C2417A&center=true&vCenter=true&width=380&height=110&lines=CYRUS" alt="Cyrus" align="absmiddle" />
-  </picture>
-</a>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Messenger_creation_35C484F1-59BC-46A5-A289-D478C335FF1A.png" width="150" align="absmiddle" alt="Cyrus with sparkly eyes" />
+<a href="https://github.com/ArciusWolf"><img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/cyrus-title.svg" width="360" align="absmiddle" alt="Cyrus" /></a>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Messenger_creation_35C484F1-59BC-46A5-A289-D478C335FF1A.png" width="150" align="absmiddle" alt="Cyrus with sparkly eyes" />
 
 <br>
 
