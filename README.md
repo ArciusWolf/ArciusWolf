@@ -16,13 +16,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A5B,35:F6A96B,65:E8739E,100:7B68EE&height=140&section=header" width="100%" alt="" />
 
-<!-- Name: lighter rose on dark mode, deeper rose on light mode. Swap font=Bungee for any Google Font. -->
+<!-- Name flanked by the two cutest stickers.
+     Same width (150) on both sides keeps the row symmetric; align="absmiddle" centres each sticker on the name's midline.
+     Inline images instead of a table, so GitHub draws no card border around the hero. -->
+<img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8140_20241015121319.png" width="150" align="absmiddle" alt="Cyrus winking with a peace sign" />&nbsp;&nbsp;
 <a href="https://github.com/ArciusWolf">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bungee&size=56&letterSpacing=6px&duration=1800&repeat=false&color=E8739E&center=true&vCenter=true&width=560&height=90&lines=CYRUS">
-    <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=56&letterSpacing=6px&duration=1800&repeat=false&color=C2417A&center=true&vCenter=true&width=560&height=90&lines=CYRUS" alt="Cyrus" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bungee&size=64&letterSpacing=6px&duration=1800&repeat=false&color=E8739E&center=true&vCenter=true&width=380&height=110&lines=CYRUS">
+    <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=64&letterSpacing=6px&duration=1800&repeat=false&color=C2417A&center=true&vCenter=true&width=380&height=110&lines=CYRUS" alt="Cyrus" align="absmiddle" />
   </picture>
-</a>
+</a>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Messenger_creation_35C484F1-59BC-46A5-A289-D478C335FF1A.png" width="150" align="absmiddle" alt="Cyrus with sparkly eyes" />
+
+<br>
 
 <!-- Rotating roles -->
 <a href="https://github.com/ArciusWolf">
@@ -54,7 +59,7 @@
       <img src="https://api.iconify.design/lucide/paw-print.svg?color=%237B68EE&height=18" height="18" align="absmiddle" alt="" />&nbsp; Currently working on <b>Furever</b>, a cozy life simulation game built with <b>Unity 6</b>
     </td>
     <td width="220" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Messenger_creation_35C484F1-59BC-46A5-A289-D478C335FF1A.png" height="180" alt="Cyrus sticker" />
+      <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Cyrus%20Head%20Gift%20%281%29.png" height="180" alt="Pixel Cyrus winking" />
     </td>
   </tr>
 </table>
@@ -181,7 +186,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Cyrus%20Head%20Gift%20%281%29.png" height="88" alt="Pixel Cyrus" />
+  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Messenger_creation_35C484F1-59BC-46A5-A289-D478C335FF1A.png" height="88" alt="Cyrus with sparkly eyes" />
 </p>
 
 <p align="center">
