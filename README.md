@@ -1,65 +1,47 @@
-<!--
-Profile design notes:
-- Keep visual widgets to a small, consistent set.
-- Local artwork belongs to ArciusWolf and is loaded from this profile repository.
-- External widgets used: readme-typing-svg, github-readme-activity-graph, Spotify Recently Played.
--->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/GradientRibbon.png" width="100%" alt="" />
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Messenger_creation_35C484F1-59BC-46A5-A289-D478C335FF1A.png"
-    width="118"
-    alt="Cyrus character sticker"
-  />
+  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Messenger_creation_35C484F1-59BC-46A5-A289-D478C335FF1A.png" width="112" alt="Cyrus sticker" />
 </p>
 
-<h1 align="center">Hi, I'm Cyrus</h1>
+<h1 align="center">Hi 👋, I'm Cyrus</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Unity+Game+Developer+from+Vietnam;Gameplay+Systems+%E2%80%A2+Simulation+%E2%80%A2+Unity+Tools"
-      alt="Unity Game Developer from Vietnam"
-    />
-  </a>
-</p>
-
-<p align="center">
-  I build reusable gameplay systems and simulation mechanics with <b>Unity</b> and <b>C#</b>.
+  <b>Unity Game Developer from Vietnam 🇻🇳</b><br>
+  I build gameplay systems, simulation mechanics, and Unity tools with C#.
 </p>
 
 <p align="center">
   <a href="mailto:cyberdroid133@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6D5DFB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ArciusWolf&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="Facebook" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" alt="YouTube" />
 </p>
 
 
 <img
   align="right"
-  width="185"
+  width="180"
   src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8140_20241015121319.png"
   alt="Cyrus peace sticker"
 />
 🐺 Currently Building — Furever
 Furever is a cozy life-simulation game built with Unity 6.
-I'm currently focused on building systems that can scale with the project instead of one-off gameplay scripts.
+I focus on building reusable systems that can scale with the project instead of one-off gameplay scripts.
 Interaction System · Player States · Build Mode · Inventory
 Day / Night · Fishing · Player Needs · Editor Tools
-Current engineering focus: interaction architecture, simulation systems, editor tooling, and performance-conscious gameplay code.
+Current focus: interaction architecture, simulation systems, editor tooling, and performance-conscious gameplay code.
 <br clear="right">
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/GradientRibbon.png" width="100%" alt="" />
 </p>
 
-🛠️ Tech Stack
+🛠️ Tech & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,blender,figma,git,github,visualstudio,vscode" alt="Tech stack" />
 </p>
@@ -78,23 +60,22 @@ Current engineering focus: interaction architecture, simulation systems, editor 
 🎮 Selected Work
 Furever
 Cozy life simulation · Unity 6 · Work in progress
-Gameplay interaction architecture, player-state systems, build mode, simulation time, inventory, fishing, needs, and custom Unity tooling.
+Gameplay interaction architecture, player-state systems, build mode, simulation time, inventory, fishing, player needs, and custom Unity tooling.
 Barlight Dreams
 2D bartender simulation · Unity · C#
 Customer management, drink-mixing gameplay, time progression, save systems, pathfinding, UI, and mobile-focused optimization.
 Alterlight
-Game-development project
-An earlier project exploring gameplay implementation and broader game-development fundamentals.
+Earlier game-development project exploring gameplay implementation and broader game-development fundamentals.
 
-📈 GitHub Activity
+📊 GitHub Stats
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/stats-output/stats.svg"
+    src="https://github-readme-stats.vercel.app/api?username=ArciusWolf&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true"
     height="165"
     alt="GitHub stats"
   />
   <img
-    src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/languages-output/languages.svg"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArciusWolf&layout=compact&langs_count=6&theme=dracula&hide_border=true"
     height="165"
     alt="Top languages"
   />
@@ -102,9 +83,8 @@ An earlier project exploring gameplay implementation and broader game-developmen
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ArciusWolf&bg_color=0D1117&color=C4B5FD&title_color=E9D5FF&line=8B5CF6&point=38BDF8&area=true&area_color=6D5DFB&hide_border=true&hide_title=true&radius=8"
-    width="100%"
-    alt="GitHub activity graph"
+    src="https://streak-stats.demolab.com?user=ArciusWolf&theme=dracula&hide_border=true"
+    alt="GitHub streak"
   />
 </p>
 
@@ -113,14 +93,14 @@ An earlier project exploring gameplay implementation and broader game-developmen
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    srcset="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    srcset="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/output/pacman-contribution-graph.svg"
   />
   <img
-    src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/output/pacman-contribution-graph.svg"
     width="100%"
     alt="Pac-Man contribution graph"
   />
@@ -136,7 +116,7 @@ An earlier project exploring gameplay implementation and broader game-developmen
 🎧 Recently Played
 <a href="https://open.spotify.com/user/21nn7zabugvrfazixrvtljp4i">
   <img
-    src="https://spotify-recently-played-readme.vercel.app/api?user=21nn7zabugvrfazixrvtljp4i&count=4&unique=false"
+    src="https://spotify-recently-played-readme.vercel.app/api?user=21nn7zabugvrfazixrvtljp4i&count=5&unique=false"
     alt="Spotify recently played"
   />
 </a>
@@ -149,11 +129,7 @@ An earlier project exploring gameplay implementation and broader game-developmen
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Cyrus%20Head%20Gift%20%281%29.png"
-    width="88"
-    alt="Pixel Cyrus"
-  />
+  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Cyrus%20Head%20Gift%20%281%29.png" width="86" alt="Pixel Cyrus" />
 </p>
 
 <p align="center">
