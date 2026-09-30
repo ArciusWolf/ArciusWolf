@@ -1,6 +1,7 @@
 <!--
   DESIGN TOKENS (kept in one place so you can retune fast)
-  Sunset gradient : #FF8A5B -> #F6A96B -> #E8739E -> #7B68EE   (waves, ribbons)
+  Wave gradient   : #006CFF -> #643BFF -> #DE00FF              (header + footer waves)
+  Sunset gradient : #FF8A5B -> #F6A96B -> #E8739E -> #7B68EE   (GradientRibbon.png dividers)
   Icon ink        : #E0692F ember, #E2557F rose, #7B68EE violet (3:1+ on light AND dark GitHub)
   Text-on-light   : #C2417A rose, #5B47D6 violet               (4.5:1+ on white)
   Text-on-dark    : #E8739E rose, #9D8FFF violet               (4.5:1+ on #0d1117)
@@ -14,7 +15,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A5B,35:F6A96B,65:E8739E,100:7B68EE&height=140&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006cff,50:643bff,100:de00ff&height=140&section=header" width="100%" alt="" />
 
 <!-- Name flanked by the two cutest stickers.
      Same width (150) on both sides keeps the row symmetric; align="absmiddle" centres each sticker on the name's midline.
@@ -197,4 +198,4 @@
   <img src="https://komarev.com/ghpvc/?username=ArciusWolf&label=Profile+views&color=C2417A&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A5B,35:F6A96B,65:E8739E,100:7B68EE&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006cff,50:643bff,100:de00ff&height=100&section=footer" width="100%" alt="" />
