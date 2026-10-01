@@ -21,7 +21,7 @@
      Same width (150) on both sides keeps the row symmetric; align="absmiddle" centres each sticker on the name's midline.
      Inline images instead of a table, so GitHub draws no card border around the hero. -->
 <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8140_20241015121319.png" width="150" align="absmiddle" alt="Cyrus winking with a peace sign" />&nbsp;&nbsp;
-<a href="https://github.com/ArciusWolf"><img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/cyrus-title-cyber.svg?v=2" width="340" align="absmiddle" alt="Cyrus" /></a>
+<a href="https://github.com/ArciusWolf"><img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/cyrus-title.svg?v=2" width="340" align="absmiddle" alt="Cyrus" /></a>
 
 <br>
 
