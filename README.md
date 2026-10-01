@@ -28,9 +28,9 @@
 <!-- Rotating roles -->
 <a href="https://github.com/ArciusWolf">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=9D8FFF&center=true&vCenter=true&width=720&height=40&lines=Unity+Game+Developer+from+Vietnam;Building+gameplay+systems+and+simulation+mechanics;Crafting+Unity+tools+with+C%23;Currently+building+Furever;Polishing+until+it+feels+good+to+play">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=5B47D6&center=true&vCenter=true&width=720&height=40&lines=Unity+Game+Developer+from+Vietnam;Building+gameplay+systems+and+simulation+mechanics;Crafting+Unity+tools+with+C%23;Currently+building+Furever;Polishing+until+it+feels+good+to+play" alt="Unity game developer from Vietnam" />
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=9D8FFF&center=true&vCenter=true&width=720&height=40&lines=Unity+Game+Developer;Currently+building+Furever">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=5B47D6&center=true&vCenter=true&width=720&height=40&lines=Unity+Game+Developer;Currently+building+Furever"/>
+</picture>
 </a>
 
 <br><br>
