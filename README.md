@@ -186,10 +186,6 @@
 </p>
 
 <p align="center">
-  <sub>Building systems, testing ideas, and polishing them until they feel good to play.</sub>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArciusWolf&label=Profile+views&color=C2417A&style=flat-square" alt="Profile views" />
 </p>
 
