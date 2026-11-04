@@ -1,56 +1,79 @@
 <!--
-  Colors: waves #006CFF -> #643BFF -> #DE00FF, typing text #9D8FFF (dark) / #5B47D6 (light), card ink #282A36.
-  No tables: everything is centered blocks, so GitHub draws no borders.
+  Colors: waves #006CFF -> #643BFF -> #DE00FF, typing text #9D8FFF (dark) / #5B47D6 (light).
+  Layout: no tables. Stickers float right / left (align="right|left") so text wraps beside them,
+  then <br clear="..."> ends the float. Headings are h3 because h2 draws a full-width rule under floats.
 -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006cff,50:643bff,100:de00ff&height=140&section=header" width="100%" alt="" />
 
-<a href="https://github.com/ArciusWolf"><img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/cyrus-title-name.svg" width="360" alt="Cyrus" /></a>
+<a href="https://github.com/ArciusWolf"><img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/cyrus-title-name.svg" width="380" alt="Cyrus" /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=9D8FFF&center=true&vCenter=true&width=720&height=40&lines=Unity+Game+Developer;Gameplay+%26+Simulation+Systems">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=5B47D6&center=true&vCenter=true&width=720&height=40&lines=Unity+Game+Developer;Gameplay+%26+Simulation+Systems" alt="Unity Game Developer. Gameplay and simulation systems." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1500&color=9D8FFF&center=true&vCenter=true&width=600&height=40&lines=Unity+Game+Developer;Gameplay+%C2%B7+Simulation+%C2%B7+Editor+Tools">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1500&color=5B47D6&center=true&vCenter=true&width=600&height=40&lines=Unity+Game+Developer;Gameplay+%C2%B7+Simulation+%C2%B7+Editor+Tools" alt="Unity Game Developer. Gameplay, simulation, editor tools." />
 </picture>
 
-<br><br>
+<a href="mailto:cyberdroid133@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=flat-square&logo=gmail&logoColor=FF6B5B" alt="Email" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=ArciusWolf&label=views&color=643BFF&style=flat-square" alt="Profile views" />
 
-<img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8140_20241015121319.png" height="180" alt="Cyrus winking with a peace sign" />
+</div>
 
-### Hi, I'm Cyrus
+<br>
 
-Game developer from **Vietnam**. I mostly work in **Unity** and **C#**:<br>
-gameplay systems, simulation mechanics, and editor tools.
+<img align="right" src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8140_20241015121319.png" width="210" alt="Cyrus winking with a peace sign" />
 
-<a href="mailto:cyberdroid133@gmail.com"><img src="https://img.shields.io/badge/Email_me-282A36?style=for-the-badge&logo=gmail&logoColor=FF6B5B" height="28" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=ArciusWolf&label=Profile+views&color=C2417A&style=for-the-badge" height="28" alt="Profile views" />
-<!-- Add more once you have real links:
-<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-282A36?style=for-the-badge&logo=youtube&logoColor=FF4D4D" height="28" alt="YouTube" /></a>
-<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Discord-282A36?style=for-the-badge&logo=discord&logoColor=8EA1E8" height="28" alt="Discord" /></a>
--->
+### ❯ whoami
 
-### Tech Stack
+Hey, I'm **Cyrus**, a game developer from **Vietnam**.<br>
+I write gameplay and simulation code in Unity, and build editor tools whenever I catch myself doing the same thing twice.
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,cs,blender,figma,git,github&perline=6" alt="Unity, C#, Blender, Figma, Git, GitHub" /></a>
+```csharp
+public class Cyrus : MonoBehaviour
+{
+    string role = "Game Developer";
+    string from = "Vietnam";
 
-### GitHub
+    string[] focus = {
+        "Gameplay systems",
+        "Simulation mechanics",
+        "Editor tooling",
+    };
 
-<img src="https://streak-stats.demolab.com/?user=ArciusWolf&background=282A36&border=E8739E&stroke=6272A4&ring=F6A96B&fire=E8739E&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=F6A96B&sideLabels=BD93F9&dates=6272A4&border_radius=10" alt="GitHub contribution streak" />
+    void Update() => DrinkCoffee();
+}
+```
+
+<br clear="right" />
+
+### ❯ toolbox
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,cs,blender,figma,git,github" alt="Unity, C#, Blender, Figma, Git, GitHub" /></a>
+
+<br>
+
+<img align="left" src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/IMG_6790.PNG" width="130" alt="Sleepy Cyrus drooling over coffee" />
+
+### ❯ git log
+
+Most of my commits land somewhere between **2 and 4 AM**.<br>
+The coffee is load-bearing.
+
+<br clear="left" />
 
 <!-- Pac-Man: generated daily by .github/workflows/pacman.yml into the pacman-output branch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-### Recently Played
+<br><br>
 
-<a href="https://open.spotify.com/user/21nn7zabugvrfazixrvtljp4i"><img src="https://spotify-recently-played-readme.vercel.app/api?user=21nn7zabugvrfazixrvtljp4i&count=5&unique=false" alt="Spotify recently played" /></a>
-
-<img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/IMG_6790.PNG" height="120" alt="Sleepy Cyrus with coffee" /><br>
-<sub>fueled by coffee and music</sub>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Cyrus%20Head%20Gift%20%281%29.png" height="90" alt="Pixel Cyrus winking" />
+  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Messenger_creation_35C484F1-59BC-46A5-A289-D478C335FF1A.png" height="90" alt="Cyrus with sparkly eyes" />
+  <br>
+  <sub>thanks for stopping by</sub>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006cff,50:643bff,100:de00ff&height=100&section=footer" width="100%" alt="" />
-
-</div>
