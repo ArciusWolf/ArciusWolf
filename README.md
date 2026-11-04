@@ -117,16 +117,6 @@
 <!-- ===================== DEV DASHBOARD ===================== -->
 <h2 align="center"><img src="https://api.iconify.design/lucide/activity.svg?color=%23E0692F&height=28" height="28" align="absmiddle" alt="" />&nbsp; Dev Dashboard</h2>
 
-<!-- Cards: github-profile-summary-cards (hosted, no setup). Contribution graph + stats + coding hours (UTC+7). -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArciusWolf&theme=dracula" width="700" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArciusWolf&theme=dracula" height="170" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArciusWolf&theme=dracula&utcOffset=7" height="170" alt="Commits by hour" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ArciusWolf&background=282A36&border=E8739E&stroke=6272A4&ring=F6A96B&fire=E8739E&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=F6A96B&sideLabels=BD93F9&dates=6272A4&border_radius=10" alt="GitHub contribution streak" />
 </p>
