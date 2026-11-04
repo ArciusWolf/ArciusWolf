@@ -46,29 +46,13 @@
 <table align="center">
   <tr>
     <td width="480" valign="middle">
-      <h3>👋 Hi, I'm Cyrus</h3>
-      <img src="https://api.iconify.design/lucide/globe.svg?color=%23E2557F&height=18" height="18" align="absmiddle" alt="" />&nbsp; Game developer based in <b>Vietnam</b><br><br>
-      <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23E0692F&height=18" height="18" align="absmiddle" alt="" />&nbsp; I build gameplay systems, simulation mechanics and editor tools in <b>Unity</b> with <b>C#</b><br><br>
-      <img src="https://api.iconify.design/lucide/paw-print.svg?color=%237B68EE&height=18" height="18" align="absmiddle" alt="" />&nbsp; Currently building <b>Furever</b>, a cozy life sim made with <b>Unity 6</b><br><br>
-      <img src="https://api.iconify.design/lucide/mail.svg?color=%23E2557F&height=18" height="18" align="absmiddle" alt="" />&nbsp; Open to collaboration. Say hi at <a href="mailto:cyberdroid133@gmail.com">cyberdroid133@gmail.com</a>
+      <h3>Hi, I'm Cyrus</h3>
+      Game developer from <b>Vietnam</b>. I mostly work in <b>Unity</b> and <b>C#</b>: gameplay systems, simulation mechanics, and editor tools that make my own workflow less painful.<br><br>
+      Right now I'm building <b>Furever</b>, a cozy life sim in <b>Unity 6</b>.
     </td>
     <td width="220" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%8140_20241015121319.png" height="180" alt="Cyrus winking with a peace sign" />
     </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ===================== WHAT I BUILD  (4 x 175) ===================== -->
-<h2 align="center"><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23E2557F&height=28" height="28" align="absmiddle" alt="" />&nbsp; What I Build</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="175"><img src="https://api.iconify.design/lucide/puzzle.svg?color=%23E0692F&height=34" height="34" alt="" /><br><b>Gameplay<br>Architecture</b><br><sub>Modular, reusable systems</sub></td>
-    <td align="center" valign="top" width="175"><img src="https://api.iconify.design/lucide/sprout.svg?color=%23E2557F&height=34" height="34" alt="" /><br><b>Simulation<br>Systems</b><br><sub>Needs, time of day, interactions</sub></td>
-    <td align="center" valign="top" width="175"><img src="https://api.iconify.design/lucide/wrench.svg?color=%237B68EE&height=34" height="34" alt="" /><br><b>Editor<br>Tooling</b><br><sub>Custom Unity tools for faster workflows</sub></td>
-    <td align="center" valign="top" width="175"><img src="https://api.iconify.design/lucide/zap.svg?color=%23E0692F&height=34" height="34" alt="" /><br><b>Performance<br>Tuning</b><br><sub>Profiling and optimisation</sub></td>
   </tr>
 </table>
 
@@ -93,7 +77,7 @@
 <table align="center">
   <tr>
     <td width="480" valign="middle">
-      A <b>cozy single-player life simulation</b> built with <b>Unity 6</b>: fish, build, decorate and live out slow days.<br><br>
+      A cozy life sim I'm building solo in <b>Unity 6</b>.<br><br>
       <img src="https://img.shields.io/badge/Unity_6-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6" />
       <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /><br>
       <img src="https://img.shields.io/badge/Genre-Cozy_Life_Sim-C2417A?style=for-the-badge" alt="Genre: cozy life sim" />
@@ -133,20 +117,25 @@
 <!-- ===================== DEV DASHBOARD ===================== -->
 <h2 align="center"><img src="https://api.iconify.design/lucide/activity.svg?color=%23E0692F&height=28" height="28" align="absmiddle" alt="" />&nbsp; Dev Dashboard</h2>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top languages" />
-</div>
+<!-- Cards: github-profile-summary-cards (hosted, no setup). Contribution graph + stats + coding hours (UTC+7). -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArciusWolf&theme=dracula" width="700" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArciusWolf&theme=dracula" height="170" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArciusWolf&theme=dracula&utcOffset=7" height="170" alt="Commits by hour" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ArciusWolf&background=282A36&border=E8739E&stroke=6272A4&ring=F6A96B&fire=E8739E&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=F6A96B&sideLabels=BD93F9&dates=6272A4&border_radius=10" alt="GitHub contribution streak" />
 </p>
 
+<!-- Pac-Man: generated daily by .github/workflows/pacman.yml into the pacman-output branch -->
 <div align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph-dark.svg">
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
@@ -163,7 +152,7 @@
           <img src="https://spotify-recently-played-readme.vercel.app/api?user=21nn7zabugvrfazixrvtljp4i&count=5&unique=false" alt="Spotify recently played" />
         </a>
       </div>
-      <sub>fueled by coffee and music ☕</sub>
+      <sub>fueled by coffee and music</sub>
     </td>
     <td width="220" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/IMG_6790.PNG" height="180" alt="Sleepy Cyrus with coffee" />
@@ -177,8 +166,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Cyrus%20Head%20Gift%20%281%29.png" height="88" alt="Pixel Cyrus winking" /><br>
-  <sub>Thanks for stopping by! ✨</sub>
+  <img src="https://raw.githubusercontent.com/ArciusWolf/ArciusWolf/main/Cyrus%20Head%20Gift%20%281%29.png" height="88" alt="Pixel Cyrus winking" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006cff,50:643bff,100:de00ff&height=100&section=footer" width="100%" alt="" />
